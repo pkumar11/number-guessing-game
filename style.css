@@ -1,0 +1,64 @@
+body{
+    font-size: 15px;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+#guessing{
+    font-size: 4em;
+
+}
+
+#statusArea{
+    font-size:2em;
+
+}
+
+#userGuess{
+    width:30%;
+    height:2.5vh;
+    font-size:25px;
+    padding:5px;
+
+}
+
+.button{
+    width:20%;
+    height:10%;
+    padding:5px;
+    border-radius: 10px;
+    margin:5px;
+    background-color:#cccc00;
+
+}
+
+ol li{
+    list-style-type: none;
+  margin: 10px;
+  padding: 0;
+}
+
+.ordered{
+    font-size:30px;
+    text-align: center;
+    
+}
+
+
+
+#submitguess{
+    font-size:30px;
+    text-align: center;
+}
+
+
+#historyArea :{
+    text-align: center;
+    align-self: center;
+    font-size:28px;
+    
+}
+
+.previous{
+    font-size:2em;
+}
